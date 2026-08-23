@@ -1,4 +1,4 @@
 I am learning Git Hub 
 This change was made on GitHub
-This change is only for the feature branch 
+This is for main git version  
 
