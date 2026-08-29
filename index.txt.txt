@@ -3,6 +3,8 @@ This change was made on GitHub
 
 This is for main git version  
 
-This change is conflict-branch
+This change is conflict-branch 
+ 
+Learning git stash command 
 
 
